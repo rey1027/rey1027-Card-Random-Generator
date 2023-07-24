@@ -1,1 +1,20 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.reverse {
+  transform: rotate(180deg);
+}
+
+.symbol {
+  font-size: 6rem;
+  padding-left: 20px;
+}
+
+.number {
+  font-size: 9rem;
+}
+
+.card {
+  width: 330px;
+  height: 500px;
+  border-radius: 20px;
+}
